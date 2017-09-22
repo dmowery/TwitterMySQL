@@ -55,7 +55,7 @@ taylorswift13
 25073877
 ```
 
-This command will write a table time_lines in the ukTwitter database:
+This command will write a table time_lines in the mySchema database:
 
 ```bash
 ./twInterface.py -d mySchema -t time_lines --time_lines --user_list ~/example_ids.txt --auth ~/auth
